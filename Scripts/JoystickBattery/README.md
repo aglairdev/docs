@@ -53,6 +53,7 @@ O script `jb.sh` automatiza os passos manuais:
 - Salva o ID da interface para reativar depois
 - Reinicia o `upower` e o daemon de notificação (Noctalia) para aplicar as mudancas imediatamente
 - Impede erros quando já está no estado desejado
+- Persiste apos reboot: cria uma regra `udev` que desativa automaticamente ao conectar o controle
 
 ```bash
 ./jb.sh --off    # desliga notificações de bateria
