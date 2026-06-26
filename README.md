@@ -1,22 +1,30 @@
-# [![DOCS](https://img.shields.io/badge/DOCS-E25252?style=for-the-badge)](https://github.com/aglairdev/Docs)
+<div align="center">
+
+[![DOCS](https://img.shields.io/badge/DOCS-E25252?style=for-the-badge)](https://github.com/aglairdev/Docs)
+
+</div>
 
 ## Que isso?
 
 Scripts de automação.
 
-![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-333333?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
 
 ## Conteúdo
 
 | Pasta | Descrição |
 |-------|-----------|
-| [scripts](./scripts/) | Scripts de automação. |
+| [scripts](./scripts/) | automação. |
 
 ## Padrão
 
 - **Títulos:** `#E25252`
 - **Convenção:** `snake_case` (constantes em `UPPER_SNAKE_CASE`)
 - **Commits:** `Add:` / `Att:` / `Rm:`
+
+## Licença
+
+[MIT](https://github.com/aglairdev/Docs/blob/main/LICENSE)
 
 <p align="center">ꕤ AGL</p>
